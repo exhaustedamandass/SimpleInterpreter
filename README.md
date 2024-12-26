@@ -4,7 +4,7 @@ JetBrains test task
 
 ## Project structure
 
-'''
+```
 
 SimpleInterpreter
 | .idea/
@@ -46,7 +46,7 @@ SimpleInterpreter
 |---- pom.xml
 |---- README.md
 
-'''
+```
 
 ## Main parts
 
